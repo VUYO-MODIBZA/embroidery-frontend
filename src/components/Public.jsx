@@ -7,7 +7,7 @@ const Public = () => {
                 <h1>Welcome to <span className="nowrap">DNR Embroidery & Digital Printing!</span></h1>
             </header>
             <main className="public__main">
-                <p>Located in the North-western part of Pretoria, DNR Embroidery & Printing  provides a trained staff ready to meet your embroidery and printing needs.</p>
+                <p>Located in the North of Pretoria, DNR Embroidery & Printing  provides a trained staff and equipment ready to meet your embroidery and printing needs.</p>
                 <address className="public__addr">
                     DNR Embroidery & Digital Printing<br />
                     310 Unit 25<br />
